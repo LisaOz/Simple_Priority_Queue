@@ -1,2 +1,4 @@
 # Simple_Priority_Queue
-Implementation of Simple Priority Queue ADT in Java
+This code demonstrates a simple implementation of a priority queue using Java's PriorityQueue class. 
+Elements are automatically organized in ascending order, the smallest element given the highest priority. 
+
